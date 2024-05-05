@@ -1,3 +1,3 @@
-module github.com/Rafrucin/emptyOne.git
+module github.com/Rafrucin/emptyOne
 
 go 1.22.2
